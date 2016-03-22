@@ -1,0 +1,53 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Robo Killa",
+            "weapon": "Lasers",
+            "ranking": " #1 Most Wanted Robot",
+            "location": "Salt Lake City",
+            "color": "grey",
+            "reward": "$1,000,000",
+            "other_attributes": null
+        },
+        {
+            "id": 2,
+            "name": "Robba",
+            "weapon": "Gloc",
+            "ranking": "#2",
+            "location": "Salt Lake City",
+            "color": "grey",
+            "reward": "$1,000,000",
+            "other_attributes": null
+        },
+        {
+            "id": 3,
+            "name": "Ackman",
+            "weapon": "Activist Investing",
+            "ranking": "#3",
+            "location": "Salt Lake City",
+            "color": "grey",
+            "reward": "$1,000,000",
+            "other_attributes": null
+        },
+        {
+            "id": 4,
+            "name": "GSInc",
+            "weapon": "Financial Ruin",
+            "ranking": "#4",
+            "location": "Salt Lake City",
+            "color": "grey",
+            "reward": "$1,000,000",
+            "other_attributes": null
+        },
+        {
+            "id": 5,
+            "name": "Quant",
+            "ranking": "Math",
+            "description": "#5",
+            "location": "Salt Lake City",
+            "color": "grey",
+            "reward": "$1,000,000",
+            "other_attributes": null
+        },
+        
